@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on myPortfolio</title>
+    <link>//localhost:1313/projects/</link>
+    <description>Recent content in Projects on myPortfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>lkrapukaitis@gmail.com (Lukas Krapukaitis)</managingEditor>
+    <webMaster>lkrapukaitis@gmail.com (Lukas Krapukaitis)</webMaster>
+    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PySh - A Python Shell</title>
+      <link>//localhost:1313/projects/pysh/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/projects/pysh/</guid>
+      <description>A simple command-line shell implementation in Python.</description>
+    </item>
+    <item>
+      <title>myRecipes</title>
+      <link>//localhost:1313/projects/myrecipes/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/projects/myrecipes/</guid>
+      <description>This is a personal collection of my favorite food and drink recipes, presented in a simple static webpage format&amp;hellip;</description>
+    </item>
+    <item>
+      <title>TimedMinesweeper-Java</title>
+      <link>//localhost:1313/projects/timedminesweeper/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/projects/timedminesweeper/</guid>
+      <description>This is a modified version of Minesweeper with a timer, built in Java.</description>
+    </item>
+    <item>
+      <title>Security Research and Reverse Engineering on iOS</title>
+      <link>//localhost:1313/projects/iphone/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/projects/iphone/</guid>
+      <description>Medium blog post about iOS exploitation for security research and reverse engineering on iOS.</description>
+    </item>
+    <item>
+      <title>Embedded Display Implementation</title>
+      <link>//localhost:1313/projects/embeddeddisplay/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/projects/embeddeddisplay/</guid>
+      <description>This is an embedded project that demostratets serial communication between the ATMega microcontroller and an LCD Display</description>
+    </item>
+  </channel>
+</rss>

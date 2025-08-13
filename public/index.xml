@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>myPortfolio</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on myPortfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>lkrapukaitis@gmail.com (Lukas Krapukaitis)</managingEditor>
+    <webMaster>lkrapukaitis@gmail.com (Lukas Krapukaitis)</webMaster>
+    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PySh - A Python Shell</title>
+      <link>//localhost:1313/projects/pysh/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/projects/pysh/</guid>
+      <description>A simple command-line shell implementation in Python.</description>
+    </item>
+    <item>
+      <title>ECET 227: AC to DC Pulse Electronics</title>
+      <link>//localhost:1313/courses/ecet227/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/courses/ecet227/</guid>
+      <description>ECET 227 focueses on the analysis and application of alternating current (AC) electrical circuits, which are fundamental to modern electronics and electrical systems&amp;hellip;</description>
+    </item>
+    <item>
+      <title>ECET 229: Concurrent Digital Systems</title>
+      <link>//localhost:1313/courses/ecet229/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/courses/ecet229/</guid>
+      <description>In this course, I developed a strong foundation in design and analysis of concurrent digital systems using FPGA development boards and utilizing the Quartus simulation software&amp;hellip;</description>
+    </item>
+    <item>
+      <title>myRecipes</title>
+      <link>//localhost:1313/projects/myrecipes/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/projects/myrecipes/</guid>
+      <description>This is a personal collection of my favorite food and drink recipes, presented in a simple static webpage format&amp;hellip;</description>
+    </item>
+    <item>
+      <title>TimedMinesweeper-Java</title>
+      <link>//localhost:1313/projects/timedminesweeper/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/projects/timedminesweeper/</guid>
+      <description>This is a modified version of Minesweeper with a timer, built in Java.</description>
+    </item>
+    <item>
+      <title>Security Research and Reverse Engineering on iOS</title>
+      <link>//localhost:1313/projects/iphone/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/projects/iphone/</guid>
+      <description>Medium blog post about iOS exploitation for security research and reverse engineering on iOS.</description>
+    </item>
+    <item>
+      <title>Embedded Display Implementation</title>
+      <link>//localhost:1313/projects/embeddeddisplay/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/projects/embeddeddisplay/</guid>
+      <description>This is an embedded project that demostratets serial communication between the ATMega microcontroller and an LCD Display</description>
+    </item>
+    <item>
+      <title>CNIT 255: Object-Oriented Programming Introduction</title>
+      <link>//localhost:1313/courses/cnit255/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/courses/cnit255/</guid>
+      <description>CNIT 255 introduced core principles of modern software development through the lens of object-oriented programming (OOP).</description>
+    </item>
+    <item>
+      <title>CNIT 182: System and Organizational Security</title>
+      <link>//localhost:1313/courses/cnit182/</link>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/courses/cnit182/</guid>
+      <description>This course explored the principles and practices behind securing complex systems at the organizational level.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;I’m Lukas, a student at a prestigous university: Purdue University, where I study computer engineering while specializing in embedded systems, digital electronics, and low-level software development. My work lives at the intersection of hardware and software, from reverse engineering iOS to programming FPGAs and designing full-stack embedded systems.&lt;/p&gt;&#xA;&lt;p&gt;I also work part-time at my family’s logistics company, where I handle systems integration and operations. Basically, I make sure the tech, warehouse, and office all speak the same language as well as automate what I can along the way.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

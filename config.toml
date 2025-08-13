@@ -1,0 +1,53 @@
+baseURL= ""
+langaugeCode = 'en-us'
+title = 'myPortfolio'
+theme = "nightfall"
+
+[menu]
+  [[menu.header]]
+    name = "about"
+    weight = 0
+    url = "/about/"
+  [[menu.header]]
+    name = "projects"
+    weight = 1
+    url = "/projects/"
+  [[menu.header]]
+    name = "courses"
+    weight = 2
+    url = "/courses/"
+  
+[params]
+user = "lukras-exe"
+hostname = "github.io"
+  [params.author]
+    name = "Lukas Krapukaitis"  
+    email = "lkrapukaitis@gmail.com"  
+
+readingTime = false  
+published = false  
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/lukras-exe"
+target = "_blank"
+aria = "GitHub Profile"
+
+[[params.social]]
+key = 1
+name = "twitter"
+url = "https://x.com/LuKras8"
+aria = "Twitter Profile"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.com/in/lukas-krapukaitis/"
+aria = "LinkedIn Profile"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:lkrapukaitis@gmail.com"
+aria = "My e-Mail Address"

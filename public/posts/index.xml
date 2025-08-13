@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on myPortfolio</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on myPortfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>lkrapukaitis@gmail.com (Lukas Krapukaitis)</managingEditor>
+    <webMaster>lkrapukaitis@gmail.com (Lukas Krapukaitis)</webMaster>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/posts/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><author>lkrapukaitis@gmail.com (Lukas Krapukaitis)</author>
+      <guid>//localhost:1313/posts/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Lukas, an undergraduate Computer Engineering major at Purdue University and a coffee enthusiast. I’m currently focusing my studies on embedded systems, digital electronics, and software development, combining hardware and software to build powerful, efficient solution. My primary interest lies in hardware and software engineering, specifically in the FPGA and embedded field.&lt;/p&gt;&#xA;&lt;p&gt;Outside the classroom, I&amp;rsquo;ve been involved in hands-on projects that span circuit design, microcontroller programming, systems integration, network engineering and iOS reverse engineering/modification. I&amp;rsquo;m constantly exploring new technologies and refining my skils.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
