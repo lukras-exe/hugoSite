@@ -7,7 +7,7 @@ draft: false
 ---
 
 ## Overview
-This implementation establishes reliable UART protocol communication to control and display content on the LCD screen with real-time user input. This project demostrates complete serial communication implementation between an ATMega2560 microcontroller and an LCD display using the UART protocol. The system provides a practical example of embedded programming concepts through interactive working progeram interfaces that responds to user input via pushbuttons.
+This implementation establishes reliable UART protocol communication to control and display content on the LCD screen with real-time user input. This project demostrates complete serial communication implementation between an ATMega2560 microcontroller and an LCD display using the UART protocol. The system provides a practical example of embedded programming concepts through interactive working program interfaces that responds to user input via pushbuttons.
 
 ## Features
 #### Core Functionality
@@ -17,7 +17,7 @@ This implementation establishes reliable UART protocol communication to control 
 - Custom character display
 #### Demonstration Examples
 For this specific project, this includes two example applications to showcase the systems capabilities:
-1. **Fortune Teller**: Generates random respinses on button press, displaying one of four possible messages
+1. **Fortune Teller**: Generates random responses on button press, displaying one of four possible messages
 2. **Dice Simulator**: Simulates rolling two dice with ASCII art respresentation of dice faces
 
 View on github: [Github](https://github.com/lukras-exe/AVR-Embedded-Display)

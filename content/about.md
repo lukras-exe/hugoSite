@@ -7,7 +7,7 @@ aliases = ["about-us", "contact"]
 
 I’m Lukas, a student at a prestigous university: Purdue University, where I study computer engineering while specializing in embedded systems, digital electronics, and low-level software development. My work lives at the intersection of hardware and software, from reverse engineering iOS to programming FPGAs and designing full-stack embedded systems.
 
-I also work part-time at my family’s logistics company, where I handle systems integration and operations. Basically, I make sure the tech, warehouse, and office all speak the same language as well as automate what I can along the way.
+I also work part-time at my family’s transportation/logistics company, where I handle systems integration and operations. Basically, I make sure the tech, warehouse, and office all speak the same language as well as automate what I can along the way.
 
 I’m originally from Chicago, but I bounce between South Florida, West Lafayette, and wherever else I feel like going. Outside of class and projects, I’m into F1, coffee, music, and figuring out how stuff works just for the hell of it.
 
